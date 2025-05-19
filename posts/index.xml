@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Personal Profile</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Personal Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 12:00:00 +0100</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tayyaba Zainab - Efficient AI Engineer</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 18 May 2025 12:00:00 +0100</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;div style=&#34;display: flex; align-items: center; gap: 20px;&#34;&gt;&#xA;  &lt;img src=&#34;https://example.org/images/DSCF7624-Photoroom.png&#34; alt=&#34;My Photo&#34; width=&#34;200&#34; style=&#34;border-radius: 50%;&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m an &lt;strong&gt;AI researcher&lt;/strong&gt; with ~4 years of experience in developing and deploying machine learning models optimized for &lt;strong&gt;resource-constrained hardware&lt;/strong&gt;. My expertise lies in hardware-aware optimization, model compression, and systems-level design, balancing &lt;strong&gt;accuracy, latency, and memory&lt;/strong&gt; on embedded platforms.&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;📞 +49 1577 2112264&lt;/li&gt;&#xA;&lt;li&gt;📧 &lt;a href=&#34;mailto:tayyaba.zainab0807@gmail.com&#34;&gt;tayyaba.zainab0807@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🐙 &lt;a href=&#34;https://github.com/TayyabaZainab0807&#34;&gt;TayyabaZainab0807&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;📍 Herzog-Friedrich Str. 52, 24103 Kiel&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;doctorate-researcher-in-computer-science&#34;&gt;Doctorate Researcher in Computer Science&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;GEOMAR, Kiel&lt;/strong&gt; — &lt;em&gt;2022–Present&lt;/em&gt;&lt;br&gt;&#xA;Automated event detection and time-series forecasting with ML in embedded systems. Published in IEEE/ACM IoTDI, ACM/SIGAPP, IEEE DCOSS.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
